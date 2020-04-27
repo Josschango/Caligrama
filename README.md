@@ -1,2 +1,0 @@
-# Caligrama
- Ejercicio 1
